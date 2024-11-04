@@ -9,6 +9,6 @@
 
 const urls = [
 	'https://forms.fillout.com/t/5SwQYNx5Ttus',
-	'https://github.com/hms5232',
+	'https://forms.fillout.com/t/qK3Rws6NwXus',
 	'https://gitlab.com/hms5232'
 ];
