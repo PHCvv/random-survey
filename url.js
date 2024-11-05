@@ -9,7 +9,19 @@
 
 const urls = [
 	'https://forms.fillout.com/t/5SwQYNx5Ttus',
+	'https://forms.fillout.com/t/5SwQYNx5Ttus',
+	'https://forms.fillout.com/t/qK3Rws6NwXus',
 	'https://forms.fillout.com/t/qK3Rws6NwXus',
 	'https://forms.fillout.com/t/atYZszXYw2us',
-	'https://forms.fillout.com/t/dcJNGsYAnous'
+	'https://forms.fillout.com/t/atYZszXYw2us',
+	'https://forms.fillout.com/t/dcJNGsYAnous',
+	'https://forms.fillout.com/t/dcJNGsYAnous',
+	'https://forms.fillout.com/t/vvXTt7aoYwus',
+	'https://forms.fillout.com/t/aKrdgWoC6aus',
+	'https://forms.fillout.com/t/279MvePE18us',
+	'https://forms.fillout.com/t/5PJY28yroGus',
+	'https://forms.fillout.com/t/fsvg97D3zuus',
+	'https://forms.fillout.com/t/79nHqUg4oXus',
+	'https://forms.fillout.com/t/1voHDT25V5us',
+	'https://forms.fillout.com/t/76FgcFt2UUus'
 ];
